@@ -9,9 +9,9 @@ Inspiration from several Codepen.io users
 Images taken from [UNSPLASH](https://unsplash.com/)
 
 ## Features:
-List Navbar with hover transitions
-Parallax scrolling effect (may not work on mobiles)
-Fieldset +paragraph
+List Navbar with hover transitions.
+Parallax scrolling effect (may not work on mobiles).
+Fieldset +paragraph.
 
 ## Future:
 Looking forward to improve the menu, and add cards as customer reviews.
