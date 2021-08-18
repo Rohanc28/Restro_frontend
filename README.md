@@ -20,8 +20,3 @@ Looking forward to improve the menu, and add cards as customer reviews.
 
 ## Contribution:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.  
-
-Screenshots:  
-![image](https://user-images.githubusercontent.com/81807980/127870231-68fb5de6-23ff-4563-8025-c93ce5da412c.png)  
-![image](https://user-images.githubusercontent.com/81807980/127871745-5a358b72-cc1b-4091-a185-395bea054f13.png)  
-
