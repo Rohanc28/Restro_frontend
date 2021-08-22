@@ -7,7 +7,6 @@ This is an exmaple for FrontEnd webpage for restaurant or cafe using html and cs
 ## Click here to see it on [Codepen](https://codepen.io/Ridevrutahc/pen/qBmKmKg)  
 
 ## Acknowledgements:
-Inspiration from several Codepen.io users  
 All Images taken from [UNSPLASH](https://unsplash.com/)  
 
 ## Features:
