@@ -4,7 +4,7 @@ Restaurant / Cafe Website for visitors.
 ## Made By: Rohan Chaturvedi
 This is an exmaple for FrontEnd webpage for restaurant or cafe using html and css.  
 
-## Click here to see it on [Codepen](https://codepen.io/Ridevrutahc/pen/qBmKmKg?editors=1100)  
+## Click here to see it on [Codepen](https://codepen.io/Ridevrutahc/pen/qBmKmKg)  
 
 ## Acknowledgements:
 Inspiration from several Codepen.io users  
