@@ -16,7 +16,7 @@ Parallax scrolling effect (may not work on mobiles).
 Fieldset +paragraph.  
 
 ## Future:
-Looking forward to improve the menu, and add cards as customer reviews.  
+Looking forward to Customer reviews in Card form and introduce Hamburger Menu with overlay when switched to Phone mode.
 
 ## Contribution:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.  
