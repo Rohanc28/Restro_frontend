@@ -8,7 +8,7 @@ This is an exmaple for FrontEnd webpage for restaurant or cafe using html and cs
 
 ## Acknowledgements:
 Inspiration from several Codepen.io users  
-Images taken from [UNSPLASH](https://unsplash.com/)  
+All Images taken from [UNSPLASH](https://unsplash.com/)  
 
 ## Features:
 List Navbar with hover transitions.  
