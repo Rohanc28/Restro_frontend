@@ -1,7 +1,7 @@
 # Restro_frontend
 Restaurant / Cafe Website for visitors.
 
-## Now live on: [Live](https://cafe-by-idevrutahc.netlify.app)
+## Now live [here](https://cafe-by-idevrutahc.netlify.app)
 
 ## Made By: Rohan Chaturvedi
 This is an exmaple for FrontEnd webpage for restaurant or cafe using html and css.  
