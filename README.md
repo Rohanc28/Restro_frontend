@@ -3,10 +3,10 @@ Restaurant / Cafe Website for visitors.
 
 ## Now live [here](https://cafe-by-idevrutahc.netlify.app)
 
+## Click here to see it on [Codepen](https://codepen.io/Ridevrutahc/pen/qBmKmKg)  
+
 ## Made By: Rohan Chaturvedi
 This is an exmaple for FrontEnd webpage for restaurant or cafe using html and css.  
-
-## Click here to see it on [Codepen](https://codepen.io/Ridevrutahc/pen/qBmKmKg)  
 
 ## Acknowledgements:
 All Images taken from [UNSPLASH](https://unsplash.com/)  
