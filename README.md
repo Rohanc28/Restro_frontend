@@ -1,8 +1,7 @@
 # Restro_frontend
 Restaurant / Cafe Website for visitors.
 
-## Now live [here.](https://cafe-by-idevrutahc.netlify.app) or scan the QR code below
-![image](https://user-images.githubusercontent.com/81807980/137595062-83b4c6cc-dceb-47b9-90ee-2e4eed17e27d.png)
+## Now live [here.](https://cafe-by-idevrutahc.netlify.app) 
 
 ## My [Codepen.](https://codepen.io/Ridevrutahc/pen/qBmKmKg)  
 
