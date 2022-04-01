@@ -66,12 +66,30 @@ nav a:hover {
 }
 @media screen and (max-width: 700px) {
   nav ul li{
-    margin-left:10px;
-    margin-right:10px;
+    margin-left:8px;
+    margin-right:8px;
     font-size: 0.8em;
     margin-top:6px;
     margin-bottom:6px;
     
+  }
+  nav li{
+    padding:0.6em 0.6em;
+  }
+  nav{
+    width:100%;
+  }
+}
+@media screen and (max-width: 470px) {
+  nav ul li{
+    margin-left:5px;
+    margin-right:5px;
+    font-size: 0.8em;
+    margin-top:7px;
+    margin-bottom:7px;
+  }
+  nav li{
+    padding:0.4em 0.4em;
   }
   nav{
     width:100%;
@@ -81,9 +99,9 @@ nav a:hover {
 body,
 html {
   scroll-behavior: smooth;
-  min-width:495px;        /* Suppose you want minimum width of 1000px */
+  min-width:355px;        /* Suppose you want minimum width of 1000px */
    width: auto !important;  /* Firefox will set width as auto */
-   width:495px; 
+   width:355px; 
   height: 100%;
   margin: 0;
   font: 400 15px/1.8 "Lato", sans-serif;
